@@ -1,0 +1,1 @@
+print('file_for_delete')
